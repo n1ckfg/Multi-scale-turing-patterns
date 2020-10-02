@@ -1,3 +1,5 @@
+/.vs/*
+
 # Mac OS X cruft
 *.pbxuser
 *.mode1v3
